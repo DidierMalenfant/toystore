@@ -55,6 +55,12 @@ description = "Handy utility functions and SDK additions."
 author = "Didier Malenfant <coding@malenfant.net>"
 license = "MIT"
 
+[pdDialogue]
+url = "https://github.com/PizzaFuel/pdDialogue"
+description = "A Playdate dialogue system."
+author = "PizzaFuel <https://github.com/PizzaFuel>"
+license = "MIT"
+
 [pdParticles]
 url = "https://github.com/PossiblyAxolotl/pdParticles"
 description = "A free Playdate particle library."
